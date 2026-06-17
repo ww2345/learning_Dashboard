@@ -57,3 +57,7 @@ Open `http://localhost:3000`
 npm run lint
 npm run build
 ```
+##Deployed Link 
+```
+https://learning-dashboard-ishant3.vercel.app/
+```
